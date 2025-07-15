@@ -1,0 +1,13 @@
+Ship Mode,Segment,CountOfOrders
+First Class,Consumer,777
+First Class,Corporate,487
+First Class,Home Office,284
+Same Day,Consumer,317
+Same Day,Corporate,118
+Same Day,Home Office,112
+Second Class,Consumer,1042
+Second Class,Corporate,611
+Second Class,Home Office,326
+Standard Class,Consumer,3145
+Standard Class,Corporate,1874
+Standard Class,Home Office,1101
